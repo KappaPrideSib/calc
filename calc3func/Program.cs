@@ -21,6 +21,9 @@ namespace calc3func
                 case 2:
                     b = Convert.ToInt32(Console.ReadLine());
                     break;
+                case 3:
+                    Console.WriteLine(a + b);
+                    break;
             }
         }
     }
