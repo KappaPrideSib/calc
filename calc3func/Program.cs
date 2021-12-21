@@ -30,6 +30,9 @@ namespace calc3func
                 case 5:
                     Console.WriteLine(a * b);
                     break;
+                case 6:
+                    Console.WriteLine(a / b);
+                    break;
             }
         }
     }
